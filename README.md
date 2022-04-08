@@ -52,3 +52,32 @@ This command shows the differences between the files in the staging area and the
 
 Usage: git diff –staged
 
+This command shows the differences between the two branches mentioned.
+
+Usage: git diff [first branch] [second branch]
+
+####    git reset
+
+This command unstages the file, but it preserves the file contents.
+
+Usage: git reset [file]
+
+This command undoes all the commits after the specified commit and preserves the changes locally.
+
+Usage: git reset [commit]
+
+This command discards all history and goes back to the specified commit.
+
+Usage: git reset –hard [commit]
+
+####    git status
+
+This command lists all the files that have to be committed.
+
+Usage: git status
+
+####    git rm
+
+This command deletes the file from your working directory and stages the deletion.
+
+Usage: git rm [file]
