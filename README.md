@@ -2,7 +2,7 @@
 
 ##  Git Commands
 
-* ####   1.  `git config`
+1. * ####     `git config`
 
 This command sets the author name and email address respectively to be used with your commits.
 
@@ -20,7 +20,7 @@ Usage:
 
 ```git init [repository name]```
 
-* ####    `git clone`
+3. * ####    `git clone`
 
 This command is used to obtain a repository from an existing URL.
 
@@ -28,7 +28,7 @@ Usage:
 
 ```git clone [url]```
 
-* ####    `git add`
+4. * ####    `git add`
 
 This command adds a file to the staging area.
 
@@ -42,7 +42,7 @@ Usage:
 
 ```git add *```
 
-* ####    `git commit`
+5. * ####    `git commit`
 
 This command records or snapshots the file permanently in the version history.
 
@@ -55,7 +55,7 @@ Usage:
 
 ```git commit -a```
 
-* ####    `git diff`
+6. * ####    `git diff`
 
 This command shows the file differences which are not yet staged.
 
@@ -75,7 +75,7 @@ Usage:
 
 ```git diff [first branch] [second branch]```
 
-* ####    `git reset`
+7. * ####    `git reset`
 
 This command unstages the file, but it preserves the file contents.
 
@@ -95,7 +95,7 @@ Usage:
 
 ```git reset –hard [commit]```
 
-* ####    `git status`
+8. * ####    `git status`
 
 This command lists all the files that have to be committed.
 
@@ -103,7 +103,7 @@ Usage:
 
 ```git status```
 
-* ####    `git rm`
+9. * ####    `git rm`
 
 This command deletes the file from your working directory and stages the deletion.
 
@@ -111,7 +111,7 @@ Usage:
 
 ```git rm [file]```
 
-* ####    `git log`
+10. * ####    `git log`
 
 This command is used to list the version history for the current branch.
 
