@@ -6,7 +6,7 @@
 
 This command sets the author name and email address respectively to be used with your commits.
 
-Usage: git config –global user.name “[name]”
+**Usage: git config –global user.name “[name]”**;
 
 Usage: git config –global user.email “[email address]”
 
@@ -87,3 +87,8 @@ Usage: git rm [file]
 This command is used to list the version history for the current branch.
 
 Usage: git log
+
+This command lists version history for a file, including the renaming of files also.
+
+Usage: git log –follow[file]
+
