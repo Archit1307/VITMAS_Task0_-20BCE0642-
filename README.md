@@ -12,7 +12,7 @@ Usage:
 
 ``` git config –global user.email “[email address]”```
 
-####    git init
+* ####    `git init`
 
 This command is used to start a new repository.
 
@@ -20,7 +20,7 @@ Usage:
 
 ```git init [repository name]```
 
-####    git clone
+* ####    `git clone`
 
 This command is used to obtain a repository from an existing URL.
 
@@ -28,7 +28,7 @@ Usage:
 
 ```git clone [url]```
 
-####    git add
+* ####    `git add`
 
 This command adds a file to the staging area.
 
@@ -42,7 +42,7 @@ Usage:
 
 ```git add *```
 
-####    git commit
+* ####    `git commit`
 
 This command records or snapshots the file permanently in the version history.
 
@@ -55,7 +55,7 @@ Usage:
 
 ```git commit -a```
 
-####    git diff
+* ####    `git diff`
 
 This command shows the file differences which are not yet staged.
 
@@ -75,7 +75,7 @@ Usage:
 
 ```git diff [first branch] [second branch]```
 
-####    git reset
+* ####    `git reset`
 
 This command unstages the file, but it preserves the file contents.
 
@@ -95,7 +95,7 @@ Usage:
 
 ```git reset –hard [commit]```
 
-####    git status
+* ####    `git status`
 
 This command lists all the files that have to be committed.
 
@@ -103,7 +103,7 @@ Usage:
 
 ```git status```
 
-####    git rm
+* ####    `git rm`
 
 This command deletes the file from your working directory and stages the deletion.
 
@@ -111,7 +111,7 @@ Usage:
 
 ```git rm [file]```
 
-####    git log
+* ####    `git log`
 
 This command is used to list the version history for the current branch.
 
