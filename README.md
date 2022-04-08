@@ -12,7 +12,7 @@ Usage:
 
 ``` git config –global user.email “[email address]”```
 
-* ####    `git init`
+2. * ####    `git init`
 
 This command is used to start a new repository.
 
