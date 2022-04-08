@@ -2,7 +2,7 @@
 
 ##  Git Commands
 
-* ####    `git config`
+* ####   1.  `git config`
 
 This command sets the author name and email address respectively to be used with your commits.
 
