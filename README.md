@@ -81,3 +81,9 @@ Usage: git status
 This command deletes the file from your working directory and stages the deletion.
 
 Usage: git rm [file]
+
+####    git log
+
+This command is used to list the version history for the current branch.
+
+Usage: git log
